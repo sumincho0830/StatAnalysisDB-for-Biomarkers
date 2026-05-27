@@ -25,7 +25,7 @@ source .venv/bin/activate
 
 <img width="2099" height="1035" alt="image" src="https://github.com/user-attachments/assets/50780e9e-85e6-4106-a444-e9c601b08b48" />
 <br>
-
+<br>
 
 **3. Correlation Matrix is Generated for selected variables**
 
