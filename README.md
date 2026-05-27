@@ -22,9 +22,11 @@ source .venv/bin/activate
 <br>
 
 **2. Configure and Build**
+
 <img width="2099" height="1035" alt="image" src="https://github.com/user-attachments/assets/50780e9e-85e6-4106-a444-e9c601b08b48" />
 <br>
 
 
 **3. Correlation Matrix is Generated for selected variables**
+
 <img width="1207" height="1064" alt="image" src="https://github.com/user-attachments/assets/391f01e4-4a5f-4000-b822-bfdb0d0336b7" />
