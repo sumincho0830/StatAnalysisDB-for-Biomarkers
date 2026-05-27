@@ -17,8 +17,9 @@ source .venv/bin/activate
 **1. Upload CSV or Excel**
 
 <img width="320" height="482" alt="image" src="https://github.com/user-attachments/assets/c967778f-67e6-47f6-a6a5-2098ca51ffba" />
-<br>
 
+<br>
+<br>
 
 **2. Configure and Build**
 <img width="2099" height="1035" alt="image" src="https://github.com/user-attachments/assets/50780e9e-85e6-4106-a444-e9c601b08b48" />
