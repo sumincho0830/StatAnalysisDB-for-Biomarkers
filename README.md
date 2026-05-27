@@ -12,7 +12,7 @@ source .venv/bin/activate
 ```
 .\.venv\Scripts\activate
 ```
-
+---
 ### How to Use
 1. Upload CSV or Excel
 <img width="320" height="482" alt="image" src="https://github.com/user-attachments/assets/c967778f-67e6-47f6-a6a5-2098ca51ffba" />
