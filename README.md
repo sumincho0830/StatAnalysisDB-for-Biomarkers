@@ -1,17 +1,17 @@
 ### Set Environment
-'''
+```
 uv sync
-'''
+```
 
 **Linux**
-'''
+```
 source .venv/bin/activate
-'''
+```
 
 **Window**
-'''
+```
 .\.venv\Scripts\activate
-'''
+```
 
 ### How to Use
 1. Upload CSV or Excel
