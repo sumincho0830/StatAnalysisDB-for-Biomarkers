@@ -12,6 +12,10 @@ source .venv/bin/activate
 ```
 .\.venv\Scripts\activate
 ```
+### Run
+```
+streamlit run .\v1_app.py
+```
 ---
 ### How to Use
 **1. Upload CSV or Excel**
